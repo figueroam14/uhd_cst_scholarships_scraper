@@ -7,3 +7,6 @@
     - requests 
     - BeautifulSoup
 
+### Screenshot:
+
+![screenshot of script](screenshot.PNG)
